@@ -1,0 +1,3 @@
+[submodule "periodic_table"]
+	path = periodic_table
+	url = https://github.com/bassem-krayem/build-a-periodic-table-database-project
