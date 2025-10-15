@@ -1,3 +1,6 @@
 [submodule "periodic_table"]
 	path = periodic_table
 	url = https://github.com/bassem-krayem/build-a-periodic-table-database-project
+[submodule "number_guessing_game"]
+	path = number_guessing_game
+	url = ./number_guessing_game/
